@@ -377,6 +377,7 @@ p {
     background-repeat: no-repeat;
     background-position: right 14px center;
     background-size: 9px;
+    appearance: none;
 
 }
 
