@@ -19,9 +19,6 @@ body {
     margin: 0;
     padding: 0;
 }
-.trend__header-link:hover{
-        color: #b59f5b;
-    }
 
 ul {
     padding: 0;
@@ -231,6 +228,10 @@ p {
     font-size: 0.76em;
     text-transform: uppercase;
     color: #ffffff;
+}
+
+.trend__header-link:hover{
+        color: #b59f5b;
 }
 
 .page__content {
